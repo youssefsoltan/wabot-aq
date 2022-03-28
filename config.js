@@ -6,20 +6,20 @@ global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
-  nrtm: 'https://nurutomo.herokuapp.com',
-  xteam: 'https://api.xteam.xyz',
-  zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.xyz',
-  pencarikode: 'https://pencarikode.xyz',
-  LeysCoder: 'https://leyscoders-api.herokuapp.com'
+  nrtm: 'https://www.instagram.com/1y._.o2',
+  xteam: 'https://www.instagram.com/1y._.o2',
+  zahir: 'https://www.instagram.com/1y._.o2',
+  zeks: 'https://www.instagram.com/1y._.o2',
+  pencarikode: 'https://www.instagram.com/1y._.o2',
+  LeysCoder: 'https://www.instagram.com/1y._.o2'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'apivinz',
-  'https://pencarikode.xyz': 'pais',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  // 'https://www.instagram.com/1y._.o2': 'apikey'
+  'https://www.instagram.com/1y._.o2': 'd90a9e986e18778b',
+  'https://www.instagram.com/1y._.o2': 'zahirgans',
+  'https://www.instagram.com/1y._.o2',
+  'https://www.instagram.com/1y._.o2': 'pais',
+  'https://www.instagram.com/1y._.o2': 'dappakntlll'
 }
 
 // Sticker WM
